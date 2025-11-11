@@ -1,10 +1,10 @@
 {
-  "title": "TEAtime Starter",
-  "description": "A TEAtime starter project",
-  "author": "Alan Mosely",
+  "title": "11ty Play Space",
+  "description": "My Playground",
+  "author": "A Walaszek",
   "image": "/img/logo.png",
   "language": "en",
-  "repo": "https://github.com/alanmosely/teatime-starter",
+  "repo": "https://github.com/walaszekkewaunee/11ty_Template",
   "social": [
     {
       "title": "GitHub",
